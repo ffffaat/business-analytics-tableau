@@ -48,7 +48,7 @@ The dataset includes transaction date and time, quantity, store location, produc
 
 ---
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 
 **Tools**
 - Tableau
